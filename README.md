@@ -1,2 +1,2 @@
 # snake-game
-a snake game written 不易
+a snake game written by python
